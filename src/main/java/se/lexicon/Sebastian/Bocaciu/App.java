@@ -12,3 +12,10 @@ public class App
         System.out.println ("Sebastian!");
     }
 }
+// Testing stuff
+class A{
+    public static void main(String[] args){
+        System.out.println("Hej Sebbe");
+    }
+}
+
